@@ -4,7 +4,7 @@ class CreateMaps < ActiveRecord::Migration[6.0]
       t.string :name
       t.string :type
       t.integer :price
-      t.string :cosing_day
+      t.string :closing_day
       t.time :open_time
       t.time :close_time
       t.text :website
