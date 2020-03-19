@@ -4,9 +4,9 @@ one:
   name: MyString
   type: 
   price: 1
-  cosing_day: MyString
-  open_time: 2020-03-17 14:27:14
-  close_time: 2020-03-17 14:27:14
+  closing_day: MyString
+  open_time: 2020-03-18 14:02:03
+  close_time: 2020-03-18 14:02:03
   website: MyText
   photo1: MyText
   photo2: MyText
@@ -16,9 +16,9 @@ two:
   name: MyString
   type: 
   price: 1
-  cosing_day: MyString
-  open_time: 2020-03-17 14:27:14
-  close_time: 2020-03-17 14:27:14
+  closing_day: MyString
+  open_time: 2020-03-18 14:02:03
+  close_time: 2020-03-18 14:02:03
   website: MyText
   photo1: MyText
   photo2: MyText
