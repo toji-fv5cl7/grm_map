@@ -1,2 +1,1 @@
 class MapsController < ApplicationController
-end
